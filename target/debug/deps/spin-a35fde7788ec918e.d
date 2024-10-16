@@ -1,0 +1,11 @@
+D:\gmail_api_project\target\debug\deps\libspin-a35fde7788ec918e.rmeta: C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex\spin.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs
+
+D:\gmail_api_project\target\debug\deps\libspin-a35fde7788ec918e.rlib: C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex\spin.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs
+
+D:\gmail_api_project\target\debug\deps\spin-a35fde7788ec918e.d: C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex\spin.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs
+
+C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs:
+C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex.rs:
+C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex\spin.rs:
+C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs:
+C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs:

@@ -1,0 +1,9 @@
+D:\gmail_api_project\target\debug\deps\libgoogle_apis_common-544d64c80a2272a8.rmeta: C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\lib.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\auth.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\field_mask.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\serde.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\url.rs
+
+D:\gmail_api_project\target\debug\deps\google_apis_common-544d64c80a2272a8.d: C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\lib.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\auth.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\field_mask.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\serde.rs C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\url.rs
+
+C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\lib.rs:
+C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\auth.rs:
+C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\field_mask.rs:
+C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\serde.rs:
+C:\Users\Slim3\ C2IN\ R5\.cargo\registry\src\index.crates.io-6f17d22bba15001f\google-apis-common-6.0.4\src\url.rs:
